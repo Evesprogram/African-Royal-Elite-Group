@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300" style="width:100%;height:auto;display:block;">
+            <rect width="460" height="300" fill="#18181B"/>
+            <!-- subgrade -->
+            <rect x="40" y="230" width="380" height="40" fill="#221F1D" stroke="#3A3632"/>
+            <!-- subbase -->
+            <rect x="40" y="205" width="380" height="25" fill="#3A342E" stroke="#3A3632"/>
+            <!-- base -->
+            <rect x="40" y="185" width="380" height="20" fill="#4A4038" stroke="#3A3632"/>
+            <!-- binder -->
+            <rect x="40" y="170" width="380" height="15" fill="#5C4E42" stroke="#3A3632"/>
+            <!-- wearing course -->
+            <rect x="40" y="158" width="380" height="12" fill="#1C1917" stroke="#A1A1AA"/>
+            <!-- crown line -->
+            <path d="M40,158 L230,152 L420,158" fill="none" stroke="#8FA98A" stroke-width="2"/>
+            <!-- labels -->
+            <text x="430" y="167" font-family="JetBrains Mono, monospace" font-size="10" fill="#A1A1AA">Wearing Course</text>
+            <text x="430" y="182" font-family="JetBrains Mono, monospace" font-size="10" fill="#A1A1AA">Binder Course</text>
+            <text x="430" y="198" font-family="JetBrains Mono, monospace" font-size="10" fill="#A1A1AA">Base Course</text>
+            <text x="430" y="220" font-family="JetBrains Mono, monospace" font-size="10" fill="#A1A1AA">Sub-base</text>
+            <text x="430" y="252" font-family="JetBrains Mono, monospace" font-size="10" fill="#A1A1AA">Subgrade</text>
+            <text x="20" y="20" font-family="Inter, sans-serif" font-size="12" fill="#6E6B66" transform="rotate(0)" style="text-transform:uppercase;letter-spacing:0.06em;">Camber ~2.5%</text>
+            <path d="M100,150 L230,145 L360,150" fill="none" stroke="#6E6B66" stroke-width="1" stroke-dasharray="3,3"/>
+          </svg>
